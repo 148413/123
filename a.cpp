@@ -2,5 +2,6 @@
 using namespace std;
 int main()
 {
-		cout<<"Explosion!";
+	cout<<"Insert the spell.";
+	cout<<"Explosion!";
 }
