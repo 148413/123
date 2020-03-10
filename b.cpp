@@ -7,4 +7,5 @@ int main()
 		cout<<"Explosion2!";
 		cout<<"Explosion2!";
 		cout<<"Explosion2!";
+		cout<<"Explosion2!";
 }
