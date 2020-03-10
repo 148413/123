@@ -4,9 +4,4 @@ int main()
 {
 		cout<<"Explosion!";
 		cout<<"Explosion!";
-		cout<<"Explosion!";
-		cout<<"Explosion!";
-		cout<<"Explosion!";
-		cout<<"Explosion!";
-		cout<<"Explosion!";
 }
